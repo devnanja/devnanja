@@ -1,4 +1,4 @@
-### Hi there 👋 :heart:
+### Hi there, I'm Przemek 👋
 
 - 🔭 I’m currently working on <br />
     Osblee.com - Online booking service.
