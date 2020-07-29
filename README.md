@@ -1,16 +1,16 @@
 ### Hi there, I'm Przemek 👋
 
-- 🔭 I’m currently working on <br />
-    Osblee.com - Online booking service.
+- 🔭 <b>I’m currently working on</b> <br />
+    <b>Osblee.com</b> - Online booking service.
     
-- 🌱 I’m currently learning<br />
+- 🌱<b> I’m currently learning</b> <br />
     English... React, Reactnative.
     
-- 💬 Ask me about <br />
+- 💬 <b>Ask me about</b> <br />
     Angular, CakePHP 3 & 4, Typescript, Node.js
 
-- :envelope: How to reach me <br />
+- :envelope: <b>How to reach me</b> <br />
     pszlufinski@gmail.com
 
-- :boom: My weekly challenges <br />
+- :boom:<b> My weekly challenges</b> <br />
     - (Week 1) <b>Full stack news app</b> (Angular, Node.js, Express, Bootstrap 5) : link
