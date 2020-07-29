@@ -1,4 +1,4 @@
-![Alt text](/github-background.jpg "Przemek Szlufinski full stack dev image")
+![Alt text](./github-background.jpg "Przemek Szlufinski full stack dev image")
 
 ### Hi there, I'm Przemek 👋
 
