@@ -1,3 +1,5 @@
+![Alt text](/github-background.jpg "Przemek Szlufinski full stack dev image")
+
 ### Hi there, I'm Przemek 👋
 
 - 🔭 <b>I’m currently working on</b> <br />
