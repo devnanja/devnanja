@@ -6,7 +6,7 @@
     <b>Osblee.com</b> - Online booking service.
     
 - 🌱<b> I’m currently learning</b> <br />
-   :iphone: Flutter & Paganini 5th Caprice by Vai :guiter:
+   :iphone: Flutter :guitar: Paganini 5th Caprice by Vai
     
 - 💬 <b>Ask me about</b> <br />
     Angular, CakePHP 3 & 4, Typescript, Node.js, React
