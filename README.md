@@ -6,13 +6,11 @@
     <b>Osblee.com</b> - Online booking service.
     
 - 🌱<b> I’m currently learning</b> <br />
-    English... React, Reactnative.
+    Flutter.
     
 - 💬 <b>Ask me about</b> <br />
-    Angular, CakePHP 3 & 4, Typescript, Node.js
+    Angular, CakePHP 3 & 4, Typescript, Node.js, React
 
 - :envelope: <b>How to reach me</b> <br />
     pszlufinski@gmail.com
 
-- :boom:<b> My weekly challenges</b> <br />
-    - (Week 1) <b>Full stack news app</b> (Angular, Node.js, Express, Bootstrap 5) : link
