@@ -7,7 +7,7 @@
     <b>Gophr.com</b> - Same-day couriers.
     
 - 🌱<b> I’m currently learning</b> <br />
-   :iphone: Flutter :guitar: Paganini 5th Caprice by Vai
+   :iphone: Flutter, bloc <3
     
 - 💬 <b>Ask me about</b> <br />
     Angular, CakePHP 3 & 4, Typescript, Node.js, React
